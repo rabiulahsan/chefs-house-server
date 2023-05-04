@@ -1,6 +1,6 @@
 [
   {
-    "dish-pic": "https://images.unsplash.com/photo-1599043513900-ed6fe01d3833?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+    "dishpic": "https://images.unsplash.com/photo-1599043513900-ed6fe01d3833?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     "_id": "1",
     "rating": 5,
     "chef_id": "1",
@@ -9,7 +9,7 @@
     "method": "To prepare the biriyani, first marinate the meat in a mixture of yogurt and spices. Fry onions until golden brown and then add the marinated meat to the onions and cook until tender. In a separate pot, cook rice with whole spices until half done. Then layer the rice and meat mixture in a large pot and cook on low heat until the rice is fully cooked and the flavors have melded together. Serve hot with raita and chutney."
   },
   {
-    "dish-pic": "https://thumbs.dreamstime.com/b/bengali-dish-khichdi-khichuri-made-combination-lentils-rice-along-indian-spices-ready-to-eat-food-close-up-225906329.jpg",
+    "dishpic": "https://thumbs.dreamstime.com/b/bengali-dish-khichdi-khichuri-made-combination-lentils-rice-along-indian-spices-ready-to-eat-food-close-up-225906329.jpg",
     "_id": "2",
     "rating": 5,
     "chef_id": "1",
@@ -18,7 +18,7 @@
     "method": "To prepare Bhuna Khichuri, soak the basmati rice and yellow lentils in water for about 30 minutes. Heat oil and ghee in a pressure cooker and add whole spices like bay leaves, cinnamon stick, cardamom pods, and cloves. Once fragrant, add sliced onion, ginger, and garlic and fry until golden brown. Add cumin powder, coriander powder, turmeric powder, and salt to taste. Drain the soaked rice and lentils and add them to the pressure cooker. Add enough water and pressure cook until the khichuri is cooked and the water is absorbed. Serve hot with ghee and fried onions."
   },
   {
-    "dish-pic": "https://images.unsplash.com/photo-1633945274309-2c16c9682a8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+    "dishpic": "https://images.unsplash.com/photo-1633945274309-2c16c9682a8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     "_id": "3",
     "rating": 5,
     "chef_id": "1",
@@ -27,7 +27,7 @@
     "method": "To prepare Kacchi Biriyani, soak the basmati rice in water for about 30 minutes. Heat oil and ghee in a large pot and add whole spices like bay leaves, cinnamon stick, cardamom pods, and cloves. Once fragrant, add sliced onion, ginger, and garlic and fry until golden brown. Add diced beef, yogurt, green chili, tomato, and salt to taste. Cook until the beef is browned and cooked through. Drain the soaked rice and add it to the pot. Add enough water and cook until the rice is half cooked. Layer the beef mixture and rice in a large pot and sprinkle saffron on top. Cover and cook on low heat until the biriyani is cooked and the water is absorbed. Serve hot with raita and salad."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/501137061/photo/chicken-biryani-1-4.jpg?s=612x612&w=0&k=20&c=4YH3uPuv2iNyNTemn5bTxCyst608o3WDZNyATnibDsg=",
+    "dishpic": "https://media.istockphoto.com/id/501137061/photo/chicken-biryani-1-4.jpg?s=612x612&w=0&k=20&c=4YH3uPuv2iNyNTemn5bTxCyst608o3WDZNyATnibDsg=",
     "_id": "4",
     "rating": 5,
     "chef_id": "1",
@@ -36,7 +36,7 @@
     "method": "To prepare Morog Polao, marinate chicken with yogurt, ginger paste, garlic paste, red chili powder, turmeric powder, and salt for 1 hour. Wash basmati rice and soak it in water for 30 minutes. Heat ghee in a pan and fry sliced onions until golden brown. Add marinated chicken and cook until the chicken is tender. In a separate pot, boil water with bay leaves, cinnamon stick, green cardamom, black cardamom, cloves, mace, nutmeg, and salt. Add the soaked rice to the boiling water and cook until the rice is almost done. Strain the rice and layer it with the chicken in a pot. Cover the pot and cook on low heat for 10-15 minutes."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/1480422822/photo/beef-rezala-krahi-kala-bhuna-korma-qorma-with-red-chilli-served-in-dish-isolated-on-grey.webp?s=2048x2048&w=is&k=20&c=qPhJI3ihuFt9irUMKwfZl5cKwzEHptk9iV5q50bTM3Q=",
+    "dishpic": "https://media.istockphoto.com/id/1480422822/photo/beef-rezala-krahi-kala-bhuna-korma-qorma-with-red-chilli-served-in-dish-isolated-on-grey.webp?s=2048x2048&w=is&k=20&c=qPhJI3ihuFt9irUMKwfZl5cKwzEHptk9iV5q50bTM3Q=",
     "_id": "5",
     "rating": 4,
     "chef_id": "2",
@@ -45,7 +45,7 @@
     "method": "To prepare Mutton Rezala, marinate mutton with yogurt, ginger paste, garlic paste, salt, and sugar for 1 hour. Heat ghee in a pan and fry sliced onions until golden brown. Add bay leaves, green cardamom, black cardamom, cinnamon stick, cloves, mace, nutmeg, and fry for a few seconds. Add the marinated mutton and fry until the meat changes color. Add poppy seeds paste and cashew nut paste and fry for a few minutes. Add milk and water, cover and cook until the meat is tender and the gravy thickens."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/1165070085/photo/hilsha-fish-with-green-chilli-shorse-illish.webp?s=2048x2048&w=is&k=20&c=uknTytZv0Hx1wftac2uK-vyJonWxu0e4xqVIHq8EodE=",
+    "dishpic": "https://media.istockphoto.com/id/1165070085/photo/hilsha-fish-with-green-chilli-shorse-illish.webp?s=2048x2048&w=is&k=20&c=uknTytZv0Hx1wftac2uK-vyJonWxu0e4xqVIHq8EodE=",
     "_id": "6",
     "rating": 5,
     "chef_id": "1",
@@ -54,7 +54,7 @@
     "method": "To prepare Shorshe Ilish, marinate the Hilsa fish in mustard paste and salt for 15 minutes. Heat mustard oil in a pan and fry sliced onions until golden brown. Add green chilies and then add the marinated fish to the pan. Cook the fish until it is tender and the gravy thickens. Serve hot with steamed rice."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/1363066965/photo/chingri-malai-curry-also-known-as-prawn-malai-curry-is-a-odisha-curry-made-from-tiger-and.webp?s=2048x2048&w=is&k=20&c=X9-RR5XmnF_oktZVOkNQ8NI9ZxDBHCDPZwyYQ0fjCFo=",
+    "dishpic": "https://media.istockphoto.com/id/1363066965/photo/chingri-malai-curry-also-known-as-prawn-malai-curry-is-a-odisha-curry-made-from-tiger-and.webp?s=2048x2048&w=is&k=20&c=X9-RR5XmnF_oktZVOkNQ8NI9ZxDBHCDPZwyYQ0fjCFo=",
     "_id": "7",
     "rating": 5,
     "chef_id": "2",
@@ -63,7 +63,7 @@
     "method": "To prepare Chingri Malai Curry, heat oil in a pan and fry sliced onions until they are soft and translucent. Add garlic, ginger, and green chilies to the pan and fry for another minute. Add turmeric powder, cumin powder, coriander powder, and salt to the pan and fry for a few more minutes. Then add prawns to the pan and cook until they are pink and tender. Add coconut milk to the pan and simmer until the gravy thickens. Finally, add garam masala and serve hot with steamed rice."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/959398128/photo/mishti-doi-fermented-sweet-yogurt.jpg?b=1&s=170667a&w=0&k=20&c=5CCl8gmvIHgQ8buWGfm7lbqAVcXyYZ9_4MRrJV2MCGU=",
+    "dishpic": "https://media.istockphoto.com/id/959398128/photo/mishti-doi-fermented-sweet-yogurt.jpg?b=1&s=170667a&w=0&k=20&c=5CCl8gmvIHgQ8buWGfm7lbqAVcXyYZ9_4MRrJV2MCGU=",
     "_id": "8",
     "rating": 5,
     "chef_id": "3",
@@ -72,7 +72,7 @@
     "method": "To prepare Mishti Doi, boil milk and sugar until it reduces to half its original quantity. Let it cool to room temperature and then mix it with yogurt. Pour the mixture into earthen pots and cover with a lid. Keep the pots in a warm place for 4-5 hours until the yogurt sets. Once set, refrigerate for a few hours before serving."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/1446079481/photo/beef-achari-karahi-served-in-dish-isolated-on-grey-background-top-view-of-pakistani-food.jpg?b=1&s=170667a&w=0&k=20&c=FZc_tXWl36VT7n_jn5dMbNTXbSHO-DMPV4WpEN-lVe0=",
+    "dishpic": "https://media.istockphoto.com/id/1446079481/photo/beef-achari-karahi-served-in-dish-isolated-on-grey-background-top-view-of-pakistani-food.jpg?b=1&s=170667a&w=0&k=20&c=FZc_tXWl36VT7n_jn5dMbNTXbSHO-DMPV4WpEN-lVe0=",
     "_id": "9",
     "rating": 5,
     "chef_id": "2",
@@ -81,7 +81,7 @@
     "method": "To prepare Beef Bhuna, first marinate the beef in chili powder, turmeric powder, cumin powder, coriander powder, garam masala, and salt for at least an hour. Heat oil in a pan and fry sliced onions until golden brown. Add ginger and garlic to the pan and fry for another minute. Add the marinated beef to the pan and cook until it is tender and the gravy thickens. Serve hot with steamed rice."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/924031860/photo/spicy-king-prawn-bhuna-curry.webp?s=2048x2048&w=is&k=20&c=aRnOYDdxkd5yx_DGOdLIZXQvP0zXAtaVrGrgCUIgknk=",
+    "dishpic": "https://media.istockphoto.com/id/924031860/photo/spicy-king-prawn-bhuna-curry.webp?s=2048x2048&w=is&k=20&c=aRnOYDdxkd5yx_DGOdLIZXQvP0zXAtaVrGrgCUIgknk=",
     "_id": "10",
     "rating": 5,
     "chef_id": "2",
@@ -90,7 +90,7 @@
     "method": "To prepare Chingri Bhuna, heat oil in a pan and fry sliced onions until golden brown. Add garlic paste and ginger paste and fry for a few seconds. Add chopped tomato, red chili powder, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt. Fry the masala until oil separates. Add shrimp and fry for a few minutes. Add water, cover and cook until the shrimp is cooked and the gravy thickens."
   },
   {
-    "dish-pic": "https://thumbs.dreamstime.com/b/assam-muri-ghonto-chicken-dish-assam-which-cooked-spicy-masala-gravy-38589590.jpg",
+    "dishpic": "https://thumbs.dreamstime.com/b/assam-muri-ghonto-chicken-dish-assam-which-cooked-spicy-masala-gravy-38589590.jpg",
     "_id": "11",
     "rating": 4,
     "chef_id": "2",
@@ -99,7 +99,7 @@
     "method": "To prepare Lau Ghonto, peel and cut bottle gourd and potato into small pieces. Heat oil in a pan and fry shrimp until they turn pink. Remove the shrimp from the pan and keep aside. In the same pan, fry sliced onions until golden brown. Add garlic paste and ginger paste and fry for a few seconds."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/1363146519/photo/bbq-beef-veal-shish-kebab-skewers-black-background-top-view.webp?s=2048x2048&w=is&k=20&c=yffhh4Cvhtn3jPK70n_yP2S4OkayRDFVgJSJg-XNgqQ=",
+    "dishpic": "https://media.istockphoto.com/id/1363146519/photo/bbq-beef-veal-shish-kebab-skewers-black-background-top-view.webp?s=2048x2048&w=is&k=20&c=yffhh4Cvhtn3jPK70n_yP2S4OkayRDFVgJSJg-XNgqQ=",
     "_id": "12",
     "rating": 4,
     "chef_id": "3",
@@ -108,7 +108,7 @@
     "method": "To prepare Chapli Kebab, mix together ground beef, finely chopped onion, tomato, green chili, ginger, garlic, cumin powder, coriander powder, garam masala, and salt in a large bowl. Add an egg and some bread crumbs to the mixture and mix well. Shape the mixture into flat patties and fry in hot oil until browned and cooked through. Serve hot with mint chutney and sliced onions."
   },
   {
-    "dish-pic": "https://thumbs.dreamstime.com/b/steamed-rice-cake-bhapa-pitha-traditional-dish-bangladesh-winter-vapa-snacks-clay-plate-255437910.jpg",
+    "dishpic": "https://thumbs.dreamstime.com/b/steamed-rice-cake-bhapa-pitha-traditional-dish-bangladesh-winter-vapa-snacks-clay-plate-255437910.jpg",
     "_id": "13",
     "rating": 5,
     "chef_id": "3",
@@ -117,7 +117,7 @@
     "method": "To prepare Bhapa Pitha, mix together rice flour, coconut milk, sugar, and salt in a large bowl. Gradually add water to the mixture until a thick batter is formed. Pour the batter into a greased dish and steam for 30-40 minutes until the pitha is cooked through. Serve hot with ghee and grated coconut."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/470624025/photo/kaalo-jam-is-a-bengali-sweet.jpg?b=1&s=170667a&w=0&k=20&c=XGeZBfWScAfoj4pkokZSUGQl-Qs1dOjVsKPMVS2oH5w=",
+    "dishpic": "https://media.istockphoto.com/id/470624025/photo/kaalo-jam-is-a-bengali-sweet.jpg?b=1&s=170667a&w=0&k=20&c=XGeZBfWScAfoj4pkokZSUGQl-Qs1dOjVsKPMVS2oH5w=",
     "_id": "14",
     "rating": 5,
     "chef_id": "3",
@@ -126,7 +126,7 @@
     "method": "To prepare Kalojam, knead khoya, flour, baking powder, and a pinch of salt with water to make a smooth dough. Make small balls from the dough and fry them in oil until they turn golden brown. In a separate pan, make sugar syrup by boiling sugar and water until it thickens. Add cardamom powder to the syrup. Soak the fried balls in the sugar syrup for at least an hour."
   },
   {
-    "dish-pic": "https://thumbs.dreamstime.com/b/indian-dish-luchi-white-table-indian-dish-luchi-white-table-wooden-plate-198531816.jpg",
+    "dishpic": "https://thumbs.dreamstime.com/b/indian-dish-luchi-white-table-indian-dish-luchi-white-table-wooden-plate-198531816.jpg",
     "_id": "15",
     "rating": 5,
     "chef_id": "3",
@@ -135,7 +135,7 @@
     "method": "To prepare Luchi, mix together all-purpose flour, salt, and sugar in a large bowl. Add oil and mix well. Gradually add water to the mixture until a smooth dough is formed. Divide the dough into small balls and roll them out into circles. Fry the circles in hot oil until they puff up and turn golden brown. Serve hot with chana dal or aloo dum."
   },
   {
-    "dish-pic": "https://images.unsplash.com/photo-1599043513900-ed6fe01d3833?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+    "dishpic": "https://images.unsplash.com/photo-1599043513900-ed6fe01d3833?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     "_id": "16",
     "rating": 4,
     "chef_id": "6",
@@ -144,7 +144,7 @@
     "method": "To prepare the biriyani, first marinate the meat in a mixture of yogurt and spices. Fry onions until golden brown and then add the marinated meat to the onions and cook until tender. In a separate pot, cook rice with whole spices until half done. Then layer the rice and meat mixture in a large pot and cook on low heat until the rice is fully cooked and the flavors have melded together. Serve hot with raita and chutney."
   },
   {
-    "dish-pic": "https://thumbs.dreamstime.com/b/bengali-dish-khichdi-khichuri-made-combination-lentils-rice-along-indian-spices-ready-to-eat-food-close-up-225906329.jpg",
+    "dishpic": "https://thumbs.dreamstime.com/b/bengali-dish-khichdi-khichuri-made-combination-lentils-rice-along-indian-spices-ready-to-eat-food-close-up-225906329.jpg",
     "_id": "17",
     "rating": 4,
     "chef_id": "6",
@@ -153,7 +153,7 @@
     "method": "To prepare Bhuna Khichuri, soak the basmati rice and yellow lentils in water for about 30 minutes. Heat oil and ghee in a pressure cooker and add whole spices like bay leaves, cinnamon stick, cardamom pods, and cloves. Once fragrant, add sliced onion, ginger, and garlic and fry until golden brown. Add cumin powder, coriander powder, turmeric powder, and salt to taste. Drain the soaked rice and lentils and add them to the pressure cooker. Add enough water and pressure cook until the khichuri is cooked and the water is absorbed. Serve hot with ghee and fried onions."
   },
   {
-    "dish-pic": "https://images.unsplash.com/photo-1633945274309-2c16c9682a8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+    "dishpic": "https://images.unsplash.com/photo-1633945274309-2c16c9682a8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
     "_id": "18",
     "rating": 4,
     "chef_id": "6",
@@ -162,7 +162,7 @@
     "method": "To prepare Kacchi Biriyani, soak the basmati rice in water for about 30 minutes. Heat oil and ghee in a large pot and add whole spices like bay leaves, cinnamon stick, cardamom pods, and cloves. Once fragrant, add sliced onion, ginger, and garlic and fry until golden brown. Add diced beef, yogurt, green chili, tomato, and salt to taste. Cook until the beef is browned and cooked through. Drain the soaked rice and add it to the pot. Add enough water and cook until the rice is half cooked. Layer the beef mixture and rice in a large pot and sprinkle saffron on top. Cover and cook on low heat until the biriyani is cooked and the water is absorbed. Serve hot with raita and salad."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/501137061/photo/chicken-biryani-1-4.jpg?s=612x612&w=0&k=20&c=4YH3uPuv2iNyNTemn5bTxCyst608o3WDZNyATnibDsg=",
+    "dishpic": "https://media.istockphoto.com/id/501137061/photo/chicken-biryani-1-4.jpg?s=612x612&w=0&k=20&c=4YH3uPuv2iNyNTemn5bTxCyst608o3WDZNyATnibDsg=",
     "_id": "19",
     "rating": 5,
     "chef_id": "6",
@@ -171,7 +171,7 @@
     "method": "To prepare Morog Polao, marinate chicken with yogurt, ginger paste, garlic paste, red chili powder, turmeric powder, and salt for 1 hour. Wash basmati rice and soak it in water for 30 minutes. Heat ghee in a pan and fry sliced onions until golden brown. Add marinated chicken and cook until the chicken is tender. In a separate pot, boil water with bay leaves, cinnamon stick, green cardamom, black cardamom, cloves, mace, nutmeg, and salt. Add the soaked rice to the boiling water and cook until the rice is almost done. Strain the rice and layer it with the chicken in a pot. Cover the pot and cook on low heat for 10-15 minutes."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/1480422822/photo/beef-rezala-krahi-kala-bhuna-korma-qorma-with-red-chilli-served-in-dish-isolated-on-grey.webp?s=2048x2048&w=is&k=20&c=qPhJI3ihuFt9irUMKwfZl5cKwzEHptk9iV5q50bTM3Q=",
+    "dishpic": "https://media.istockphoto.com/id/1480422822/photo/beef-rezala-krahi-kala-bhuna-korma-qorma-with-red-chilli-served-in-dish-isolated-on-grey.webp?s=2048x2048&w=is&k=20&c=qPhJI3ihuFt9irUMKwfZl5cKwzEHptk9iV5q50bTM3Q=",
     "_id": "20",
     "rating": 4,
     "chef_id": "4",
@@ -180,7 +180,7 @@
     "method": "To prepare Mutton Rezala, marinate mutton with yogurt, ginger paste, garlic paste, salt, and sugar for 1 hour. Heat ghee in a pan and fry sliced onions until golden brown. Add bay leaves, green cardamom, black cardamom, cinnamon stick, cloves, mace, nutmeg, and fry for a few seconds. Add the marinated mutton and fry until the meat changes color. Add poppy seeds paste and cashew nut paste and fry for a few minutes. Add milk and water, cover and cook until the meat is tender and the gravy thickens."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/1165070085/photo/hilsha-fish-with-green-chilli-shorse-illish.webp?s=2048x2048&w=is&k=20&c=uknTytZv0Hx1wftac2uK-vyJonWxu0e4xqVIHq8EodE=",
+    "dishpic": "https://media.istockphoto.com/id/1165070085/photo/hilsha-fish-with-green-chilli-shorse-illish.webp?s=2048x2048&w=is&k=20&c=uknTytZv0Hx1wftac2uK-vyJonWxu0e4xqVIHq8EodE=",
     "_id": "21",
     "rating": 5,
     "chef_id": "6",
@@ -189,7 +189,7 @@
     "method": "To prepare Shorshe Ilish, marinate the Hilsa fish in mustard paste and salt for 15 minutes. Heat mustard oil in a pan and fry sliced onions until golden brown. Add green chilies and then add the marinated fish to the pan. Cook the fish until it is tender and the gravy thickens. Serve hot with steamed rice."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/1363066965/photo/chingri-malai-curry-also-known-as-prawn-malai-curry-is-a-odisha-curry-made-from-tiger-and.webp?s=2048x2048&w=is&k=20&c=X9-RR5XmnF_oktZVOkNQ8NI9ZxDBHCDPZwyYQ0fjCFo=",
+    "dishpic": "https://media.istockphoto.com/id/1363066965/photo/chingri-malai-curry-also-known-as-prawn-malai-curry-is-a-odisha-curry-made-from-tiger-and.webp?s=2048x2048&w=is&k=20&c=X9-RR5XmnF_oktZVOkNQ8NI9ZxDBHCDPZwyYQ0fjCFo=",
     "_id": "22",
     "rating": 5,
     "chef_id": "4",
@@ -198,7 +198,7 @@
     "method": "To prepare Chingri Malai Curry, heat oil in a pan and fry sliced onions until they are soft and translucent. Add garlic, ginger, and green chilies to the pan and fry for another minute. Add turmeric powder, cumin powder, coriander powder, and salt to the pan and fry for a few more minutes. Then add prawns to the pan and cook until they are pink and tender. Add coconut milk to the pan and simmer until the gravy thickens. Finally, add garam masala and serve hot with steamed rice."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/959398128/photo/mishti-doi-fermented-sweet-yogurt.jpg?b=1&s=170667a&w=0&k=20&c=5CCl8gmvIHgQ8buWGfm7lbqAVcXyYZ9_4MRrJV2MCGU=",
+    "dishpic": "https://media.istockphoto.com/id/959398128/photo/mishti-doi-fermented-sweet-yogurt.jpg?b=1&s=170667a&w=0&k=20&c=5CCl8gmvIHgQ8buWGfm7lbqAVcXyYZ9_4MRrJV2MCGU=",
     "_id": "23",
     "rating": 5,
     "chef_id": "5",
@@ -207,7 +207,7 @@
     "method": "To prepare Mishti Doi, boil milk and sugar until it reduces to half its original quantity. Let it cool to room temperature and then mix it with yogurt. Pour the mixture into earthen pots and cover with a lid. Keep the pots in a warm place for 4-5 hours until the yogurt sets. Once set, refrigerate for a few hours before serving."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/1446079481/photo/beef-achari-karahi-served-in-dish-isolated-on-grey-background-top-view-of-pakistani-food.jpg?b=1&s=170667a&w=0&k=20&c=FZc_tXWl36VT7n_jn5dMbNTXbSHO-DMPV4WpEN-lVe0=",
+    "dishpic": "https://media.istockphoto.com/id/1446079481/photo/beef-achari-karahi-served-in-dish-isolated-on-grey-background-top-view-of-pakistani-food.jpg?b=1&s=170667a&w=0&k=20&c=FZc_tXWl36VT7n_jn5dMbNTXbSHO-DMPV4WpEN-lVe0=",
     "_id": "24",
     "rating": 4,
     "chef_id": "4",
@@ -216,7 +216,7 @@
     "method": "To prepare Beef Bhuna, first marinate the beef in chili powder, turmeric powder, cumin powder, coriander powder, garam masala, and salt for at least an hour. Heat oil in a pan and fry sliced onions until golden brown. Add ginger and garlic to the pan and fry for another minute. Add the marinated beef to the pan and cook until it is tender and the gravy thickens. Serve hot with steamed rice."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/924031860/photo/spicy-king-prawn-bhuna-curry.webp?s=2048x2048&w=is&k=20&c=aRnOYDdxkd5yx_DGOdLIZXQvP0zXAtaVrGrgCUIgknk=",
+    "dishpic": "https://media.istockphoto.com/id/924031860/photo/spicy-king-prawn-bhuna-curry.webp?s=2048x2048&w=is&k=20&c=aRnOYDdxkd5yx_DGOdLIZXQvP0zXAtaVrGrgCUIgknk=",
     "_id": "25",
     "rating": 4,
     "chef_id": "4",
@@ -225,7 +225,7 @@
     "method": "To prepare Chingri Bhuna, heat oil in a pan and fry sliced onions until golden brown. Add garlic paste and ginger paste and fry for a few seconds. Add chopped tomato, red chili powder, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt. Fry the masala until oil separates. Add shrimp and fry for a few minutes. Add water, cover and cook until the shrimp is cooked and the gravy thickens."
   },
   {
-    "dish-pic": "https://thumbs.dreamstime.com/b/assam-muri-ghonto-chicken-dish-assam-which-cooked-spicy-masala-gravy-38589590.jpg",
+    "dishpic": "https://thumbs.dreamstime.com/b/assam-muri-ghonto-chicken-dish-assam-which-cooked-spicy-masala-gravy-38589590.jpg",
     "_id": "26",
     "rating": 3,
     "chef_id": "4",
@@ -234,7 +234,7 @@
     "method": "To prepare Lau Ghonto, peel and cut bottle gourd and potato into small pieces. Heat oil in a pan and fry shrimp until they turn pink. Remove the shrimp from the pan and keep aside. In the same pan, fry sliced onions until golden brown. Add garlic paste and ginger paste and fry for a few seconds."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/1363146519/photo/bbq-beef-veal-shish-kebab-skewers-black-background-top-view.webp?s=2048x2048&w=is&k=20&c=yffhh4Cvhtn3jPK70n_yP2S4OkayRDFVgJSJg-XNgqQ=",
+    "dishpic": "https://media.istockphoto.com/id/1363146519/photo/bbq-beef-veal-shish-kebab-skewers-black-background-top-view.webp?s=2048x2048&w=is&k=20&c=yffhh4Cvhtn3jPK70n_yP2S4OkayRDFVgJSJg-XNgqQ=",
     "_id": "27",
     "rating": 4,
     "chef_id": "5",
@@ -243,7 +243,7 @@
     "method": "To prepare Chapli Kebab, mix together ground beef, finely chopped onion, tomato, green chili, ginger, garlic, cumin powder, coriander powder, garam masala, and salt in a large bowl. Add an egg and some bread crumbs to the mixture and mix well. Shape the mixture into flat patties and fry in hot oil until browned and cooked through. Serve hot with mint chutney and sliced onions."
   },
   {
-    "dish-pic": "https://thumbs.dreamstime.com/b/steamed-rice-cake-bhapa-pitha-traditional-dish-bangladesh-winter-vapa-snacks-clay-plate-255437910.jpg",
+    "dishpic": "https://thumbs.dreamstime.com/b/steamed-rice-cake-bhapa-pitha-traditional-dish-bangladesh-winter-vapa-snacks-clay-plate-255437910.jpg",
     "_id": "28",
     "rating": 5,
     "chef_id": "5",
@@ -252,7 +252,7 @@
     "method": "To prepare Bhapa Pitha, mix together rice flour, coconut milk, sugar, and salt in a large bowl. Gradually add water to the mixture until a thick batter is formed. Pour the batter into a greased dish and steam for 30-40 minutes until the pitha is cooked through. Serve hot with ghee and grated coconut."
   },
   {
-    "dish-pic": "https://media.istockphoto.com/id/470624025/photo/kaalo-jam-is-a-bengali-sweet.jpg?b=1&s=170667a&w=0&k=20&c=XGeZBfWScAfoj4pkokZSUGQl-Qs1dOjVsKPMVS2oH5w=",
+    "dishpic": "https://media.istockphoto.com/id/470624025/photo/kaalo-jam-is-a-bengali-sweet.jpg?b=1&s=170667a&w=0&k=20&c=XGeZBfWScAfoj4pkokZSUGQl-Qs1dOjVsKPMVS2oH5w=",
     "_id": "29",
     "rating": 5,
     "chef_id": "5",
@@ -261,7 +261,7 @@
     "method": "To prepare Kalojam, knead khoya, flour, baking powder, and a pinch of salt with water to make a smooth dough. Make small balls from the dough and fry them in oil until they turn golden brown. In a separate pan, make sugar syrup by boiling sugar and water until it thickens. Add cardamom powder to the syrup. Soak the fried balls in the sugar syrup for at least an hour."
   },
   {
-    "dish-pic": "https://thumbs.dreamstime.com/b/indian-dish-luchi-white-table-indian-dish-luchi-white-table-wooden-plate-198531816.jpg",
+    "dishpic": "https://thumbs.dreamstime.com/b/indian-dish-luchi-white-table-indian-dish-luchi-white-table-wooden-plate-198531816.jpg",
     "_id": "30",
     "rating": 4,
     "chef_id": "5",

@@ -8,16 +8,14 @@ app.use(cors());
 const allCehf = require("./data/all-chefs-data.json");
 const chefsData = require("./data/chefs-recipe-data.json");
 
-// app.get("/", (req, res) => {
-//   res.send("server is running");
-// });
-
 app.get("/", (req, res) => {
   res.send(allCehf);
 });
 
-app.get("/chefs", (req, res) => {
-  res.send(chefsData);
+app.get("/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedChef = chefsData.filter((n) => n.chef_id === id);
+  res.send(selectedChef);
 });
 
 app.listen(port, () => {
